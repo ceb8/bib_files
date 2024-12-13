@@ -1,0 +1,18 @@
+@ARTICLE{Morin_2008MNRAS.390..567M,
+       author = {{Morin}, J. and {Donati}, J. -F. and {Petit}, P. and {Delfosse}, X. and {Forveille}, T. and {Albert}, L. and {Auri{\`e}re}, M. and {Cabanac}, R. and {Dintrans}, B. and {Fares}, R. and {Gastine}, T. and {Jardine}, M.~M. and {Ligni{\`e}res}, F. and {Paletou}, F. and {Ramirez Velez}, J.~C. and {Th{\'e}ado}, S.},
+        title = "{Large-scale magnetic topologies of mid M dwarfs}",
+      journal = {\mnras},
+     keywords = {techniques: polarimetric, stars: activity, stars: low-mass, brown dwarfs, stars: magnetic fields, stars: rotation, Astrophysics},
+         year = 2008,
+        month = oct,
+       volume = {390},
+       number = {2},
+        pages = {567-581},
+          doi = {10.1111/j.1365-2966.2008.13809.x},
+archivePrefix = {arXiv},
+       eprint = {0808.1423},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2008MNRAS.390..567M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
